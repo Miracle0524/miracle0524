@@ -1,6 +1,6 @@
 <!-- Profile README template -->
 
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, I'm Jack David 👋</h1>
 
 <p align="center">
   <b>AI Engineer · Bittensor Miner · Open-Source Builder</b>
@@ -81,12 +81,6 @@
   - **Model quality** and incentive alignment
   - Observability for **on-chain + off-chain** behavior
 
-**Selected repos (replace with your own):**
-
-- 🔹 [YOUR_GITHUB_USERNAME/bittensor-miner-template](https://github.com/YOUR_GITHUB_USERNAME/bittensor-miner-template) – opinionated starter for production-ready miners  
-- 🔹 [YOUR_GITHUB_USERNAME/tao-tools](https://github.com/YOUR_GITHUB_USERNAME/tao-tools) – CLI + scripts for monitoring, ops, and quick experiments  
-- 🔹 [YOUR_GITHUB_USERNAME/ai-infra-lab](https://github.com/YOUR_GITHUB_USERNAME/ai-infra-lab) – playground for agents, routing, and model-serving setups  
-
 ---
 
 ## 🚀 What I'm Currently Doing
@@ -105,39 +99,24 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=miracle0524&show_icons=true&theme=transparent&hide_border=true" 
     alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=miracle0524&theme=transparent&hide_border=true" 
     alt="GitHub Streak" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle0524&layout=compact&theme=transparent&hide_border=true" 
     alt="Top Languages" 
   />
 </p>
-
----
-
-## 📂 Featured Projects
-
-> Swap these for your real repos
-
-- 🧱 **[PROJECT_1_NAME](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1_REPO)**  
-  Short, sharp one-liner of what it does and why it’s useful.
-
-- 🤖 **[PROJECT_2_NAME](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2_REPO)**  
-  Example: "Production-ready FastAPI service that wraps LLMs with observability, tracing, and rate limiting."
-
-- 🌐 **[PROJECT_3_NAME](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3_REPO)**  
-  Example: "Tools for running/monitoring Bittensor miners using Docker + Kubernetes."
 
 ---
 
@@ -147,13 +126,5 @@
 - 🧾 Obsess a bit over **logs, metrics, and dashboards**
 - 🔁 Design for **iteration** – ship small, improve continuously
 - 🤝 Value **clear communication**, good docs, and honest collaboration
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: [YOUR_NAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-- 🐦 X (Twitter): [@YOUR_TWITTER_HANDLE](https://twitter.com/YOUR_TWITTER_HANDLE)
-- ✉️ Email: `your.email@domain.com`
 
 > If you’re building something at the intersection of **AI, infra, and crypto**, I probably want to hear about it.
