@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" alt="GitHub followers" />
+  <a href="https://github.com/miracle0524?tab=followers">
+    <img src="https://img.shields.io/github/followers/miracle0524?style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views" alt="Profile views" />
+  <a href="https://github.com/miracle0524">
+    <img src="https://komarev.com/ghpvc/?username=miracle0524&label=Profile%20views" alt="Profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/miracle0524/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+  <a href="https://twitter.com/miracle0524">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
