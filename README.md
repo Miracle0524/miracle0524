@@ -128,3 +128,11 @@
 - 🤝 Value **clear communication**, good docs, and honest collaboration
 
 > If you’re building something at the intersection of **AI, infra, and crypto**, I probably want to hear about it.
+
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
+</picture>
