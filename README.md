@@ -23,7 +23,6 @@
 
 ---
 <img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
----
 
 ## 🧠 About Me
 
