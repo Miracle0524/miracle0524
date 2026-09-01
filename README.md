@@ -1,6 +1,6 @@
 <!-- Profile README template -->
 
-<h1 align="center">Hi, I'm Jack David 👋</h1>
+<h1 align="center">Hi, I'm Elias Prendez 👋</h1>
 
 <p align="center">
   <b>AI Engineer · Bittensor Miner · Open-Source Builder</b>
