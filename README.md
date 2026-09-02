@@ -100,22 +100,8 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=miracle0524&show_icons=true&theme=transparent&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=miracle0524&theme=transparent&hide_border=true" 
     alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle0524&layout=compact&theme=transparent&hide_border=true" 
-    alt="Top Languages" 
   />
 </p>
 
