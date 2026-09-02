@@ -1,125 +1,83 @@
-<!-- Profile README template -->
-
-<h1 align="center">Hi, I'm Elias Prendez 👋</h1>
-
-<p align="center">
-  <b>AI Engineer · Bittensor Miner · Open-Source Builder</b>
-</p>
+<div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Elias Prendez — open-source AI systems and decentralized infrastructure" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/miracle0524?tab=followers">
-    <img src="https://img.shields.io/github/followers/miracle0524?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/miracle0524">
-    <img src="https://komarev.com/ghpvc/?username=miracle0524&label=Profile%20views" alt="Profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/miracle0524/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/miracle0524">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white" alt="Twitter" />
-  </a>
+  <a href="https://github.com/Miracle0524?tab=followers"><img src="https://img.shields.io/github/followers/Miracle0524?style=flat-square&label=Follow&color=7c3aed" alt="GitHub followers" /></a>
+  <a href="https://github.com/Miracle0524"><img src="https://komarev.com/ghpvc/?username=Miracle0524&style=flat-square&color=0891b2&label=Profile+views" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/miracle0524/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
----
-<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
+## Hello, open source 👋
 
-## 🧠 About Me
+I'm **Elias**, an engineer building in public where **AI systems**, **developer infrastructure**, and **decentralized networks** meet.
 
-- 🔭 Building with **AI/ML**, **distributed systems**, and **crypto-native infrastructure**
-- ⚡ Actively mining / contributing to **Bittensor** and the wider decentralized AI ecosystem
-- 🧩 Enjoy working on **agentic systems**, **model serving**, and **MLOps** in the wild
-- 🛠 Love turning messy ideas into **clean, documented, reproducible** code
-- ☕ Fuel: coffee, logs, metrics, and a lot of `watch nvidia-smi`
+I like the unglamorous parts that make ambitious systems useful: reliable inference, observable services, reproducible experiments, clear interfaces, and documentation that helps the next contributor move faster. This profile is my public workshop—expect practical tools, experiments, and evolving ideas.
 
----
+## What I'm exploring
 
-## 🛠 Tech Stack
+| Area | What interests me |
+| --- | --- |
+| 🤖 **Applied AI** | Agents, retrieval, evaluation, multimodal and real-time inference |
+| 🌐 **Decentralized AI** | Bittensor subnets, incentive-aware systems, miner and validator tooling |
+| ⚙️ **ML infrastructure** | Model serving, observability, performance, deployment and MLOps |
+| 🧰 **Developer tools** | Small, reusable building blocks with strong docs and sane defaults |
 
-**Languages**
+## Projects in the workshop
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Miracle0524/vocence">vocence</a></h3>
+      <p>Experiments around voice, audio intelligence, and decentralized AI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Miracle0524/hermes-subnet">hermes-subnet</a></h3>
+      <p>A public workspace for building and learning in the Bittensor ecosystem.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Miracle0524/constantinople-subnet">constantinople-subnet</a></h3>
+      <p>Subnet research and infrastructure, developed in the open.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Miracle0524/RESI-models">RESI-models</a></h3>
+      <p>Model-focused experiments and reproducible AI building blocks.</p>
+    </td>
+  </tr>
+</table>
 
-**AI / Data**
+> Repositories evolve quickly. Issues, thoughtful feedback, and small focused pull requests are always welcome.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗-Transformers-FFCC4D)
-![LangChain](https://img.shields.io/badge/LangChain-0A3D62?logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+## Toolbox
 
-**Infra / DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
-
-**Web / APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-00C7B7?logo=grpc&logoColor=white)
-
----
-
-## ⚡ Bittensor & Decentralized AI
-
-- 🧬 Running / contributing to **Bittensor** subnets and tooling  
-- 📈 Focused on:
-  - Reliable **validator / miner** infra
-  - **Model quality** and incentive alignment
-  - Observability for **on-chain + off-chain** behavior
-
----
-
-## 🚀 What I'm Currently Doing
-
-- 🧪 Prototyping **AI agents** that interact with real infra (logs, alerts, wallets, clusters)
-- 🧵 Experimenting with **scaling laws**, **distillation**, and **routing** in decentralized settings
-- 📦 Packaging internal tools into **reusable OSS libraries**
-- 💬 Open to collaborating on:
-  - Bittensor subnets
-  - AI infra / MLOps stacks
-  - Smart contracts & crypto infra that actually has a reason to exist
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=miracle0524&theme=transparent&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,kubernetes,terraform,aws,gcp,linux,git,githubactions&perline=13" alt="Python, PyTorch, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, Terraform, AWS, GCP, Linux, Git, and GitHub Actions" />
 </p>
 
----
+**Often nearby:** transformers · vector search · Kafka · gRPC · observability · distributed systems
 
-## 🧩 How I Work
+## How I contribute
 
-- ✅ Prefer **typed, tested** code over clever one-liners
-- 🧾 Obsess a bit over **logs, metrics, and dashboards**
-- 🔁 Design for **iteration** – ship small, improve continuously
-- 🤝 Value **clear communication**, good docs, and honest collaboration
+- Start with the problem and make trade-offs explicit.
+- Prefer tested, typed, observable code over clever code.
+- Turn one-off solutions into reusable tools when the pattern is real.
+- Write down the context so contributors don't have to rediscover it.
+- Ship small, learn from real usage, and iterate in public.
 
-> If you’re building something at the intersection of **AI, infra, and crypto**, I probably want to hear about it.
+## Let's build something useful
 
+I'm especially happy to collaborate on **open-source AI infrastructure**, **Bittensor tooling**, **voice/audio systems**, and projects where performance and reliability actually matter.
+
+If one of my repositories overlaps with something you're building, open an issue or start a discussion. A clear problem statement is more than enough to begin.
 
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miracle0524/miracle0524/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miracle0524/miracle0524/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Miracle0524/miracle0524/output/github-contribution-grid-snake.svg" alt="Miracle0524 contribution graph animation" />
+  </picture>
+</div>
+
+<p align="center"><sub>Build openly. Document generously. Leave the system better than you found it.</sub></p>
